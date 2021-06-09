@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(32, 32, 32);
+  color: aliceblue;
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(245, 98, 0);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(245, 98, 0);
+}
