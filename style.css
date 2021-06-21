@@ -18,7 +18,7 @@ a:visited {
 }
 
 
-.avatars {
+#avatars {
   width: 200px;
   border-radius: 50%;
 }
