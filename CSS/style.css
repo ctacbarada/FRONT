@@ -1,0 +1,17 @@
+.background {   
+  background-color: aliceblue;  
+}
+
+.title {
+  width: 100vw;
+  height: 10vh;
+  background-color: white;
+  display: flex; 
+}
+
+.title_p {
+  margin: auto;
+  font-size: 300%;
+}           
+
+
