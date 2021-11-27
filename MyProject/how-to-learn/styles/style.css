@@ -47,6 +47,7 @@
   line-height: 96px;
   font-weight: bold;
   margin: auto 64px;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -56,6 +57,7 @@
   font-size: 18px;
   line-height: 25px;
   margin: auto auto 30px 64px;
+  z-index: 2;
 }
 
 .header__link {
@@ -242,6 +244,7 @@
 .section-title_theme_dark {
   margin: 90px 0 20px 0;
   color: #f2f2f2;
+  z-index: 1;
 }
 
 .section-subtitle_theme_dark {
