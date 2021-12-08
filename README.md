@@ -1,3 +1,5 @@
-# Front-End
+#  How to learn
 
-Hey. Here i'm try to learn Front-End development. Like 1-2 hours per day.
+![Preview]()
+
+This landing page was written in `HTML5` and `CSS3`. The project was created on the basis of [BEM](https://en.bem.info/) metadology.

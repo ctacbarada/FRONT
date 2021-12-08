@@ -1,0 +1,7 @@
+.footer__column_content_copyright {
+  -ms-flex-preferred-size: 711px;
+      flex-basis: 711px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.cards {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 100px 1fr 100px 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  -webkit-column-gap: 100px;
+     -moz-column-gap: 100px;
+          column-gap: 100px;
+  width: 920px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
