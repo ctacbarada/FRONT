@@ -3,8 +3,8 @@
   display: grid;
   -ms-grid-columns: 1fr 28px 1fr;
   grid-template-columns: repeat(2, 1fr);
-  -webkit-column-gap: 28px;
-     -moz-column-gap: 28px;
-          column-gap: 28px;
+  -webkit-column-gap: 48px;
+     -moz-column-gap: 48px;
+          column-gap: 48px;
   margin: 68px 0 0 0;
 }
