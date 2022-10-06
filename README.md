@@ -5,7 +5,7 @@ This landing page has been written by `HTML5` and `CSS3`. The project was create
 <a href="https://sirstanislav.github.io/HowToLearn/"><img src="https://github.com/sirstanislav/HowToLearn/blob/main/images/Gif.gif?raw=true"></a>
 <br>
 
-Of the features it is the application of animations
+Of the features it is the application of `animations`
 
 ```CSS
 @keyframes rotation {
